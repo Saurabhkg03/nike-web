@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Agrandir:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-rowdies: Rowdies;
+  --font-agrandir: Agrandir;
+
+  /* font sizes */
+  --font-size-4xs: 12px;
+  --font-size-3xs: 16px;
+  --font-size-2xs: 18px;
+  --font-size-xs: 20px;
+  --font-size-sm: 21px;
+  --font-size-base: 24px;
+  --font-size-lg: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --grey: #7b7b7b;
+  --color-gray-200: rgba(255, 255, 255, 0.66);
+
+  /* Paddings */
+  --padding-md: 10px;
+
+  /* border radiuses */
+  --br-sm: 13px;
+  --br-md: 24px;
+}
